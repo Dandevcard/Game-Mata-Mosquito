@@ -1,7 +1,7 @@
 <h1 align="center"> Game MAta Mosquito </h1>
 
 
-![Descrição da Imagem](img/imagem-game.png)
+![Descrição da Imagem](imagens/imagem-game.png)
 
 <br>
 
